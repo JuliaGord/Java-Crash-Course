@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa185930-3bac-48eb-8d08-70e9ca8dad51" name="Changes" comment="Update ThirdTask">
+    <list default="true" id="fa185930-3bac-48eb-8d08-70e9ca8dad51" name="Changes" comment="Update SecondTask">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cycles/Cycles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Branching/SecondTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Branching/SecondTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +34,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "1.8"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SecondTask">
+  <component name="RunManager" selected="Application.FourthTask">
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstTask" />
+      <module name="Cycles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FourthTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FourthTask" />
+      <module name="Cycles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTask (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondTask" />
+      <module name="Cycles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SecondTask" />
       <module name="Java-Crash-Course" />
@@ -43,17 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ThirdTask (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ThirdTask" />
-      <module name="Java-Crash-Course" />
+      <module name="Cycles" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FourthTask" />
+        <item itemvalue="Application.ThirdTask (1)" />
+        <item itemvalue="Application.SecondTask (1)" />
+        <item itemvalue="Application.FirstTask" />
         <item itemvalue="Application.SecondTask" />
-        <item itemvalue="Application.ThirdTask" />
       </list>
     </recent_temporary>
   </component>
@@ -80,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664484237820</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update SecondTask">
+      <created>1664485668698</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664485668698</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +132,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding Branching Tasks" />
     <MESSAGE value="Update ThirdTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ThirdTask" />
+    <MESSAGE value="Update SecondTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update SecondTask" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Cycles/src/ThirdTask.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
