@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa185930-3bac-48eb-8d08-70e9ca8dad51" name="Changes" comment="Update SecondTask">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cycles/Cycles.iml" afterDir="false" />
+    <list default="true" id="fa185930-3bac-48eb-8d08-70e9ca8dad51" name="Changes" comment="Adding CyclesTasks">
+      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/SecondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/ThirdTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cycles/src/FirstTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cycles/src/FirstTask.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "1.8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FourthTask">
-    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Application.ThirdTask">
+    <configuration name="FirstTask (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstTask" />
-      <module name="Cycles" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -54,16 +57,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondTask (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondTask" />
-      <module name="Cycles" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SecondTask" />
-      <module name="Java-Crash-Course" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdTask" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdTask" />
+        <item itemvalue="Application.SecondTask" />
+        <item itemvalue="Application.FirstTask (1)" />
         <item itemvalue="Application.FourthTask" />
         <item itemvalue="Application.ThirdTask (1)" />
-        <item itemvalue="Application.SecondTask (1)" />
-        <item itemvalue="Application.FirstTask" />
-        <item itemvalue="Application.SecondTask" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664485668698</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding CyclesTasks">
+      <created>1664644503616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664644503616</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding CyclesTasks">
+      <created>1664644578412</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664644578412</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +150,8 @@
     <MESSAGE value="adding Branching Tasks" />
     <MESSAGE value="Update ThirdTask" />
     <MESSAGE value="Update SecondTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update SecondTask" />
+    <MESSAGE value="Adding CyclesTasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding CyclesTasks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
